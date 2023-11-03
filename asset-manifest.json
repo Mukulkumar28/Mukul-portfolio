@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Mukul-portfolio/static/css/main.caf8a57a.css",
-    "main.js": "/Mukul-portfolio/static/js/main.ad6978e0.js",
-    "static/media/image.png": "/Mukul-portfolio/static/media/image.c5241a6323599d13515e.png",
+    "main.css": "/Mukul-portfolio/static/css/main.86a7eb0c.css",
+    "main.js": "/Mukul-portfolio/static/js/main.10b7962b.js",
+    "static/media/image.png": "/Mukul-portfolio/static/media/image.5052a5802b8a49031795.png",
     "static/media/DbmsIcon.png": "/Mukul-portfolio/static/media/DbmsIcon.9793dd68a27a0e5de46e.png",
     "static/media/portfolio-3.png": "/Mukul-portfolio/static/media/portfolio-3.1a80111dd39a2a21291c.png",
     "static/media/linkedin.png": "/Mukul-portfolio/static/media/linkedin.6ac77341c7a1f1743ba6.png",
@@ -14,11 +14,11 @@
     "static/media/walmart.png": "/Mukul-portfolio/static/media/walmart.180d0b7cca696fe0365e.png",
     "static/media/instagram.png": "/Mukul-portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Mukul-portfolio/index.html",
-    "main.caf8a57a.css.map": "/Mukul-portfolio/static/css/main.caf8a57a.css.map",
-    "main.ad6978e0.js.map": "/Mukul-portfolio/static/js/main.ad6978e0.js.map"
+    "main.86a7eb0c.css.map": "/Mukul-portfolio/static/css/main.86a7eb0c.css.map",
+    "main.10b7962b.js.map": "/Mukul-portfolio/static/js/main.10b7962b.js.map"
   },
   "entrypoints": [
-    "static/css/main.caf8a57a.css",
-    "static/js/main.ad6978e0.js"
+    "static/css/main.86a7eb0c.css",
+    "static/js/main.10b7962b.js"
   ]
 }
