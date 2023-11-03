@@ -4,7 +4,7 @@ import bg from '../../assets/image.png';
 import btnImg from "../../assets/resume.png";
 
 const intro = () => {
-  const resumeUrl = 'https://drive.google.com/file/d/1sbCbvYJryRLx3_ZYLARcIzHHAoPVQTiI/view?usp=sharing'; // Replace with the URL of your resume
+  const resumeUrl = 'https://drive.google.com/file/d/1VWkmhD5PQ97pHe09R_rUKqyIkErAGfQR/view?usp=sharing'; // Replace with the URL of your resume
 
   return (
     <section id='intro'>
