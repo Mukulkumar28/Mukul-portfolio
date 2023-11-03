@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mukul-portfolio/static/css/main.caf8a57a.css",
+    "main.js": "/Mukul-portfolio/static/js/main.ad6978e0.js",
+    "static/media/image.png": "/Mukul-portfolio/static/media/image.c5241a6323599d13515e.png",
+    "static/media/DbmsIcon.png": "/Mukul-portfolio/static/media/DbmsIcon.9793dd68a27a0e5de46e.png",
+    "static/media/portfolio-3.png": "/Mukul-portfolio/static/media/portfolio-3.1a80111dd39a2a21291c.png",
+    "static/media/linkedin.png": "/Mukul-portfolio/static/media/linkedin.6ac77341c7a1f1743ba6.png",
+    "static/media/resume.png": "/Mukul-portfolio/static/media/resume.73d87b13e58612b6b98b.png",
+    "static/media/portfolio-1.png": "/Mukul-portfolio/static/media/portfolio-1.3b65f0f3b19b150539ca.png",
+    "static/media/portfolio-2.png": "/Mukul-portfolio/static/media/portfolio-2.d7c405d22e8bfe0ab203.png",
+    "static/media/github.png": "/Mukul-portfolio/static/media/github.00e5bd772731dbe33649.png",
+    "static/media/PythonIcon.webp": "/Mukul-portfolio/static/media/PythonIcon.84ed24bcf5498b784920.webp",
+    "static/media/walmart.png": "/Mukul-portfolio/static/media/walmart.180d0b7cca696fe0365e.png",
+    "static/media/instagram.png": "/Mukul-portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Mukul-portfolio/index.html",
+    "main.caf8a57a.css.map": "/Mukul-portfolio/static/css/main.caf8a57a.css.map",
+    "main.ad6978e0.js.map": "/Mukul-portfolio/static/js/main.ad6978e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf8a57a.css",
+    "static/js/main.ad6978e0.js"
+  ]
+}
